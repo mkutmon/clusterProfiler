@@ -38,6 +38,7 @@ Imports:
     tidyr,
     utils,
     yulab.utils (>= 0.1.6)
+	RCy3
 Suggests:
     AnnotationHub,
     BiocManager,
